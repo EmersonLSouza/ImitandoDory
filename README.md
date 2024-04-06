@@ -1,2 +1,3 @@
 # ImitandoDory
-Resolução do Exercício "Imitando Dory" do PC-1 ETEC Adolpho Berezin
+Resolução do exercício "Imitando Dory" de PC-1 do 1I3 da ETEC Adolpho Berezin
+
